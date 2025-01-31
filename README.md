@@ -31,11 +31,8 @@
 - SQLite
 - Postgres
 ### Non Relational Databases
-<rf>
 - MongoDb
 
-## Soft Skills
-<rf>
 ## My Passions
 - Gymrat
 - 3 cushion Billar
