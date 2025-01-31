@@ -21,16 +21,16 @@
 - Java && Springboot 
 - TypeScript &&NodeJs
 
-## Utilities
+### Utilities
 - Control version with Github or Gitlab
 - Docker
 
-## Databases
-### Relational databases
+### Databases
+#### Relational databases
 - MySQl
 - SQLite
 - Postgres
-### Non Relational Databases
+#### Non Relational Databases
 - MongoDb
 
 ## My Passions
