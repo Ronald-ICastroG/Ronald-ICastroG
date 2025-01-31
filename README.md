@@ -9,7 +9,7 @@
 - Industrial engineer, ---> University of Pamplona, Colombia.
 
 
-##My Works
+## My Jobs
 - University Professor. 2015 - today
 - HSEQ consultant - 2017 - today
 - Freelancer backend developer- in process
