@@ -27,9 +27,9 @@
 
 ### Databases
 #### Relational databases
-- MySQl
+- MySQL
 - SQLite
-- Postgres
+- Postgresql
 #### Non Relational Databases
 - MongoDb
 
