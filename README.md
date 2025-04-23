@@ -34,9 +34,9 @@
 - MongoDb
 
 ## My Passions
-- Gymrat
-- 3 cushion Billar
-- Football
+- __Gymrat__
+- __3 cushion Billiar__
+- _Football_
 
 
 
