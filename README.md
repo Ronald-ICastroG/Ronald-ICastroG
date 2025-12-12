@@ -19,13 +19,13 @@
 
 ### Languages and frameworks 
 - Java && Springboot 
-- TypeScript &&NodeJs
+- TypeScript &&NodeJs 
 
-### Utilities
+### Utilities 
 - Control version with Github or Gitlab
 - Docker
 
-### Databases
+### Databases 
 #### Relational databases
 - MySQL
 - SQLite
@@ -33,10 +33,10 @@
 #### Non Relational Databases
 - MongoDb
 
-## My Passions
-- __Gymrat__
-- __3 cushion Billiar__
-- _Football_
+## My Passions 
+- __Gymrat__ 
+- __3 cushion Billiar__ 🎱
+- _Football_ ⚽
 
 
 
