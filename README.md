@@ -2,7 +2,7 @@
 
  - I´m Ronald Castro 
 - 📍 Colombia 
-
+🇨🇴
 
 ## My Scolarity 🏫
 - M.Sc. Industrial Engineering. ---> University of Pamplona, Colombia. 
