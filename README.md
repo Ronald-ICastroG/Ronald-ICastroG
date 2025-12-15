@@ -25,9 +25,10 @@ https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&log
 
 
 ### Utilities 
-   ####versions control
+###versions control
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-###Containers
+
+### Containers
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
