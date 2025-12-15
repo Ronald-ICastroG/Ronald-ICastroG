@@ -19,7 +19,9 @@
 
 ### Languages and frameworks 
 - Java && Springboot 
-- ![- https://img.shields.io/badge/typescript-typescript-blue?logo=typescript](https://img.shields.io/badge/typescript-black?logo=typescript) / 
+- ![- https://img.shields.io/badge/typescript-typescript-blue?logo=typescript](https://img.shields.io/badge/typescript-black?logo=typescript) / ![Node.js Badge](
+https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+
 
 ### Utilities 
 - Control version with Github or Gitlab
