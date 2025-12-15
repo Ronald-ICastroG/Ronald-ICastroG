@@ -1,7 +1,7 @@
 # Welcome to my repository
 
  I´m Ronald Castro,
-📍🇨🇴 Colombia  
+📍 Colombia 🇨🇴
 
 
 ## My Scolarity 🏫
