@@ -4,13 +4,13 @@
 
 
 ## My Scolarity 🏫
-- M.Sc. Industrial Engineering. ---> University of Pamplona, Colombia.
+- M.Sc. Industrial Engineering. ---> University of Pamplona, Colombia. 🕶️
 - HSE Especialist. ---> Corporación Universitaria Minuto de Dios.
 - Industrial engineer, ---> University of Pamplona, Colombia.
 
 
 ## My Jobs 💼
-- University Professor. 2015 - today
+- University Professor. 2015 - today 
 - HSEQ consultant - 2017 - today
 - Freelancer backend developer- in process
 
@@ -26,8 +26,8 @@
 - Docker
 
 ### Databases 
-#### Relational databases
-- MySQL
+#### Relational databases :
+- MySQL 
 - SQLite
 - Postgresql
 #### Non Relational Databases
@@ -40,3 +40,4 @@
 
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/Ronald-ICastroG/Ronald-ICastroG)
+https://img.shields.io/badge/typescript-typescript-blue?logo=typescript
