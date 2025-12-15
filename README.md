@@ -1,11 +1,11 @@
 # Welcome to my repository
 
- I´m Ronald Castro,
-📍 Colombia 🇨🇴
+ - I´m Ronald Castro 
+- 📍 Colombia 
 
 
 ## My Scolarity 🏫
-- M.Sc. Industrial Engineering. ---> University of Pamplona, Colombia. 🕶️
+- M.Sc. Industrial Engineering. ---> University of Pamplona, Colombia. 
 - HSE Especialist. ---> Corporación Universitaria Minuto de Dios.
 - Industrial engineer, ---> University of Pamplona, Colombia.
 
