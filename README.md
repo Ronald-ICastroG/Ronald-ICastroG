@@ -40,4 +40,4 @@
 
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/Ronald-ICastroG/Ronald-ICastroG)
-https://img.shields.io/badge/typescript-typescript-blue?logo=typescript
+- https://img.shields.io/badge/typescript-typescript-blue?logo=typescript
