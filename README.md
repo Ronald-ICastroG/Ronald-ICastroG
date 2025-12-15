@@ -19,7 +19,7 @@
 
 ### Languages and frameworks 
 - Java && Springboot 
-- TypeScript &&NodeJs 
+- ![- https://img.shields.io/badge/typescript-typescript-blue?logo=typescript](https://img.shields.io/badge/typescript-black?logo=typescript) / 
 
 ### Utilities 
 - Control version with Github or Gitlab
@@ -39,4 +39,4 @@
 
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/Ronald-ICastroG/Ronald-ICastroG)
-![- https://img.shields.io/badge/typescript-typescript-blue?logo=typescript](https://img.shields.io/badge/typescript-black?logo=typescript)
+
