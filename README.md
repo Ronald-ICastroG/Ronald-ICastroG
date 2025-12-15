@@ -1,8 +1,7 @@
 # Welcome to my repository
 
  - I´m Ronald Castro 
-- 📍 Colombia 
-🇨🇴
+- 📍Cúcuta, Colombia 
 
 ## My Scolarity 🏫
 - M.Sc. Industrial Engineering. ---> University of Pamplona, Colombia. 
