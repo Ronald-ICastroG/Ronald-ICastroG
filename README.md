@@ -46,17 +46,11 @@ https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&log
 ## project management
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
+##Stats
 
 ![Ronald-ICastroG GitHub stats](https://github-readme-stats.vercel.app/api?username=Ronald-ICastroG&show_icons=true&bg_color=00000000)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&bg_color=00000000)
-
-
-## My Hobbies 
-- __Gymrat__ 
-- __3 cushion Billiar__ 🎱
-- _Football_ ⚽
-  
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/Ronald-ICastroG/Ronald-ICastroG)
 
