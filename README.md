@@ -52,8 +52,8 @@ https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&log
 - __3 cushion Billiar__ 🎱
 - _Football_ ⚽
 
+![Ronald-ICastroG GitHub stats](https://github-readme-stats.vercel.app/api?username=Ronald-ICastroG&show_icons=true&bg_color=00000000)
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ronald-ICastroG)](https://github.com/Ronald-ICastroG/github-readme-stats)
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/Ronald-ICastroG/Ronald-ICastroG)
 
