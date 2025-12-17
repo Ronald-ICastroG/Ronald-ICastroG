@@ -44,7 +44,7 @@ https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&log
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
 ## project management
--![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 
 ## My Passions 
@@ -52,6 +52,8 @@ https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&log
 - __3 cushion Billiar__ 🎱
 - _Football_ ⚽
 
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ronald-ICastroG)](https://github.com/Ronald-ICastroG/github-readme-stats)
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/Ronald-ICastroG/Ronald-ICastroG)
 
