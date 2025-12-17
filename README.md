@@ -4,9 +4,9 @@
 - 📍Cúcuta, Colombia 
 
 ## My Scolarity 🏫
-- ![badge](https://img.shields.io/badge/M.Sc_Industrial_Engineering-University_of_Pamplona-blue) 
-- HSE Especialist. ---> Corporación Universitaria Minuto de Dios.
-- Industrial engineer, ---> University of Pamplona, Colombia.
+- ![badge](https://img.shields.io/badge/M.Sc_Industrial_Engineering-University_of_Pamplona,Colombia-blue) 
+- ![badge](https://img.shields.io/badge/HSE_Especialist-Uniminuto,Colombia-orange)
+- ![badge](https://img.shields.io/badge/Industrial_Engineer-Uniminuto,Colombia-dark_gray)
 
 
 ## My Jobs 💼
