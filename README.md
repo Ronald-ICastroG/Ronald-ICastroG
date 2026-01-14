@@ -52,6 +52,7 @@ https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&log
 ![Ronald-ICastroG GitHub stats](https://github-readme-stats.vercel.app/api?username=Ronald-ICastroG&show_icons=true&bg_color=00000000)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronald-ICastroG&layout=compact&show_icons=true&bg_color=00000000)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronald-ICastroG&hide=javascript,css,scss,html&theme=tokyonight)
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/Ronald-ICastroG/Ronald-ICastroG)
 
