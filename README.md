@@ -57,9 +57,9 @@ https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&log
 
 ### :zap: MIs commits recientes
 
-<!--START\_SECTION:activity-->
+<!--START_SECTION:activity-->
 
-<!--END\_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 
 
