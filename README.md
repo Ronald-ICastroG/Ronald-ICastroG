@@ -15,6 +15,12 @@
 - Freelancer backend developer- in process
 
 
+### :zap: MIs commits recientes
+<!--START_SECTION:actiivity-->
+
+
+<!--END_SECTION:activity-->
+
 ## My Technical Skills 🖥️
 
 ## Languages and frameworks 
