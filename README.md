@@ -14,19 +14,6 @@
 - HSEQ consultant - 2017 - today
 - Freelancer backend developer- in process
 
-
-### :zap: MIs commits recientes
-
-<!--START\_SECTION:activity-->
-
-<!--END\_SECTION:activity-->
-
-
-
-<!--RECENT\_ACTIVITY:start-->
-
-<!--RECENT\_ACTIVITY:last\_update-->
-
 ## My Technical Skills 🖥️
 
 ## Languages and frameworks 
@@ -67,3 +54,15 @@ https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&log
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/Ronald-ICastroG/Ronald-ICastroG)
 
+
+### :zap: MIs commits recientes
+
+<!--START\_SECTION:activity-->
+
+<!--END\_SECTION:activity-->
+
+
+
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
