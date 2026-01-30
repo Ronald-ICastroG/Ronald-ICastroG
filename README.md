@@ -16,10 +16,8 @@
 
 
 ### :zap: MIs commits recientes
-<!--START_SECTION:actiivity-->
-
-
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
 
 ## My Technical Skills 🖥️
 
