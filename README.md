@@ -1,7 +1,7 @@
 # Welcome to my repository
 
  - I´m Ronald Castro 
-- 📍Cúcuta, Colombia 
+- 📍Colombia 
 
 ## My Scolarity 🏫
 - ![badge](https://img.shields.io/badge/M.Sc_Industrial_Engineering-University_of_Pamplona,Colombia-blue) 
